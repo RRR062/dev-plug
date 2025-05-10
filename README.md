@@ -1,2 +1,3 @@
-# dev-plug
-tutorial code
+# dev-plug sample
+
+tutorial code for wordpress
